@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm
+END
+decode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/decode.cpp
+END
+fund_struct_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/fund_struct_def.h
+END
+globalconfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/globalconfig.cpp
+END
+user_ttc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/user_ttc.cpp
+END
+ckv_svr_operator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/ckv_svr_operator.cpp
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/base64.h
+END
+UrlAnalyze.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/UrlAnalyze.h
+END
+CTransApiProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/CTransApiProxy.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/common.h
+END
+sqlapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/sqlapi.h
+END
+exception.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/exception.cpp
+END
+appcomm.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/appcomm.h
+END
+config_center.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/config_center.cpp
+END
+mid_sessionapi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/mid_sessionapi.cpp
+END
+dbsign.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/dbsign.h
+END
+trpcwrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/trpcwrapper.h
+END
+user_classify.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/user_classify.h
+END
+dbconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/dbconfig.h
+END
+tools_comm.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/tools_comm.h
+END
+qpay_encrypt_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/qpay_encrypt_client.h
+END
+errorsum.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/errorsum.h
+END
+cftlog.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/cftlog.h
+END
+global_access_limit.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/global_access_limit.h
+END
+runinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/runinfo.h
+END
+parameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/parameter.h
+END
+decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/decode.h
+END
+common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/common.cpp
+END
+sqlapi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/sqlapi.cpp
+END
+globalconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/globalconfig.h
+END
+appcomm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/appcomm.cpp
+END
+user_ttc.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/user_ttc.h
+END
+ckv_svr_operator.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/ckv_svr_operator.h
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/error.h
+END
+exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/exception.h
+END
+trpcwrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/trpcwrapper.cpp
+END
+fund_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/fund_common.h
+END
+config_center.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/config_center.h
+END
+tools_comm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/tools_comm.cpp
+END
+dbconfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/dbconfig.cpp
+END
+mid_sessionapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/mid_sessionapi.h
+END
+user_classify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/user_classify.cpp
+END
+cftlog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/cftlog.cpp
+END
+global_access_limit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/global_access_limit.cpp
+END
+runinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/runinfo.cpp
+END
+parameter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/pay/pay_tenpay3_rep/!svn/ver/61144/FundDealServer_proj/branches/fund_deal_server_V3.0D0161/comm/parameter.cpp
+END
